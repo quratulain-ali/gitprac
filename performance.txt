@@ -1,0 +1,557 @@
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 107299 ms
+Used memory 103 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 109311 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 106930 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 107319 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 109495 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 187457 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 185885 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 184245 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 184116 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 185175 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 508384 ms
+Used memory 442 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 494688 ms
+Used memory 433 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 525470 ms
+Used memory 422 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 519076 ms
+Used memory 396 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 489098 ms
+Used memory 449 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.0.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 1173743 ms
+Used memory 891 MBs
+Remaining Trace: 0 elements
+----------------------------------
+
+
+
+
+********************************
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 120756 ms
+Used memory 130 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 126235 ms
+Used memory 132 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 116905 ms
+Used memory 132 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 279932 ms
+Used memory 235 MBs
+Remaining Trace: 200319 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 289260 ms
+Used memory 235 MBs
+Remaining Trace: 200319 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 289448 ms
+Used memory 235 MBs
+Remaining Trace: 200319 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 2228298 ms
+Used memory 547 MBs
+Remaining Trace: 500716 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 2193226 ms
+Used memory 547 MBs
+Remaining Trace: 500716 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 2210944 ms
+Used memory 606 MBs
+Remaining Trace: 500716 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 132202 ms
+Used memory 130 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 305119 ms
+Used memory 236 MBs
+Remaining Trace: 200319 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 2202475 ms
+Used memory 548 MBs
+Remaining Trace: 500716 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 111740 ms
+Used memory 141 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 2533320 ms
+Used memory 1768 MBs
+Remaining Trace: 1511287 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.0.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 1124744 ms
+Used memory 1183 MBs
+Remaining Trace: 1013510 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.0.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 1191256 ms
+Used memory 1183 MBs
+Remaining Trace: 1013510 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 520139 ms
+Used memory 595 MBs
+Remaining Trace: 500716 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 185647 ms
+Used memory 255 MBs
+Remaining Trace: 200319 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: false
+----------------------------------
+Consumed Time 108938 ms
+Used memory 141 MBs
+Remaining Trace: 100024 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 221348 ms
+Used memory 128 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 213150 ms
+Used memory 128 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 112000 ms
+Used memory 103 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 106396 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 184876 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 524380 ms
+Used memory 393 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 1999297 ms
+Used memory 1173 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-1.0.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 1156429 ms
+Used memory 776 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.5.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 545066 ms
+Used memory 393 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.2.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 162900 ms
+Used memory 178 MBs
+Remaining Trace: 0 elements
+----------------------------------
+----------------------------------
+----------------------------------
+ETL Script:findCouples.etl
+----------------------------------
+Source Model:imdb-0.1.xmi
+----------------------------------
+Selective Trace Enabled: true
+----------------------------------
+Consumed Time 98438 ms
+Used memory 105 MBs
+Remaining Trace: 0 elements
+----------------------------------
